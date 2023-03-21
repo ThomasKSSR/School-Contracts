@@ -1,0 +1,22 @@
+[2022-05-05 20:24:22] [info] Start Program:
+Path:"C:\Users\Thomas\source\repos\OOP10-11\x64\Debug\OOP10-11.exe"
+Arguments:
+Working directory: "C:\Users\Thomas\source\repos\OOP10-11\OOP10-11\"
+Modules: Selected: C:\Users\Thomas\source\repos\OOP10-11\x64\Debug\OOP10-11.exe Excluded: 
+Sources: Selected: C:\Users\Thomas\source\repos\OOP10-11\OOP10-11 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Thomas\AppData\Local\Temp\rqgrrxhj.aku 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2022-05-05 20:24:22] [info] Module: C:\Users\Thomas\source\repos\OOP10-11\x64\Debug\OOP10-11.exe is selected because it matches selected pattern: C:\Users\Thomas\source\repos\OOP10-11\x64\Debug\OOP10-11.exe
+[2022-05-05 20:24:22] [info] ----------------------------------------------------
+[2022-05-05 20:24:22] [info] Coverage binary generated in file: C:\Users\Thomas\AppData\Local\Temp\rqgrrxhj.aku
+[2022-05-05 20:24:22] [info] ----------------------------------------------------
+[2022-05-05 20:24:22] [error] Your program stop with error code: -1073741515
